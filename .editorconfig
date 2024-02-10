@@ -1,5 +1,5 @@
 # See https://EditorConfig.org
-[*.{kt,kts,java,xml,yaml,json}]
+[*.{kt,kts,java,xml,yaml,json,md}]
 indent_size=2
 indent_style=space
 continuation_indent_size=2
