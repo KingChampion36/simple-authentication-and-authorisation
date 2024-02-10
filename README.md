@@ -1,1 +1,1 @@
-# simple-authentication-and-authorisation
+# Simple Authentication and Authorisation
